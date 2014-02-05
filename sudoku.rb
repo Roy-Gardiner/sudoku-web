@@ -19,7 +19,8 @@ end
 # this method removes some digits from the solution to create a puzzle
 def puzzle(sudoku)
   # this method is yours to implement
-  sudoku 
+ 
+  sudoku.map! { |char| rand(1..3) == 1 ? char = ' ' : char = char} 
 end
 
 get '/' do 
