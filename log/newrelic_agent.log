@@ -1,0 +1,91 @@
+# Logfile created on 2014-02-07 14:08:01 +0000 by logger.rb/41954
+[02/07/14 14:08:01 +0000 Roys-MacBook-Pro.local (17375)] INFO : Starting the New Relic agent in "development" environment.
+[02/07/14 14:08:01 +0000 Roys-MacBook-Pro.local (17375)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[02/07/14 14:08:01 +0000 Roys-MacBook-Pro.local (17375)] INFO : Reading configuration from 
+[02/07/14 14:08:01 +0000 Roys-MacBook-Pro.local (17375)] ERROR : Unable to read configuration file : Is a directory - /Users/roygardiner/gitRepos/sudokuweb
+[02/07/14 14:08:01 +0000 Roys-MacBook-Pro.local (17375)] INFO : Enabling the Request Sampler.
+[02/07/14 14:08:01 +0000 Roys-MacBook-Pro.local (17375)] INFO : Environment: development
+[02/07/14 14:08:01 +0000 Roys-MacBook-Pro.local (17375)] INFO : Dispatcher: webrick
+[02/07/14 14:08:01 +0000 Roys-MacBook-Pro.local (17375)] INFO : Application: development
+[02/07/14 14:08:01 +0000 Roys-MacBook-Pro.local (17375)] WARN : No license key found in newrelic.yml config. This often means your newrelic.yml is missing a section for the running environment 'development'
+[02/07/14 14:08:01 +0000 Roys-MacBook-Pro.local (17375)] INFO : Installing Net instrumentation
+[02/07/14 14:08:01 +0000 Roys-MacBook-Pro.local (17375)] INFO : Installing Sinatra instrumentation
+[02/07/14 14:08:01 +0000 Roys-MacBook-Pro.local (17375)] INFO : Installing deferred Rack instrumentation
+[02/07/14 14:08:01 +0000 Roys-MacBook-Pro.local (17375)] INFO : Finished instrumentation
+[02/07/14 14:08:01 +0000 Roys-MacBook-Pro.local (17375)] INFO : Starting the New Relic agent in "development" environment.
+[02/07/14 14:08:01 +0000 Roys-MacBook-Pro.local (17375)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[02/07/14 14:08:01 +0000 Roys-MacBook-Pro.local (17375)] INFO : Reading configuration from 
+[02/07/14 14:08:01 +0000 Roys-MacBook-Pro.local (17375)] ERROR : Unable to read configuration file : Is a directory - /Users/roygardiner/gitRepos/sudokuweb
+[02/07/14 14:08:01 +0000 Roys-MacBook-Pro.local (17375)] INFO : Doing deferred dependency-detection before Rack startup
+[02/07/14 14:08:01 +0000 Roys-MacBook-Pro.local (17378)] INFO : Starting the New Relic agent in "development" environment.
+[02/07/14 14:08:01 +0000 Roys-MacBook-Pro.local (17378)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[02/07/14 14:08:01 +0000 Roys-MacBook-Pro.local (17378)] INFO : Reading configuration from 
+[02/07/14 14:08:01 +0000 Roys-MacBook-Pro.local (17378)] ERROR : Unable to read configuration file : Is a directory - /Users/roygardiner/gitRepos/sudokuweb
+[02/07/14 14:08:01 +0000 Roys-MacBook-Pro.local (17378)] INFO : Enabling the Request Sampler.
+[02/07/14 14:08:01 +0000 Roys-MacBook-Pro.local (17378)] INFO : Environment: development
+[02/07/14 14:08:01 +0000 Roys-MacBook-Pro.local (17378)] INFO : Dispatcher: webrick
+[02/07/14 14:08:01 +0000 Roys-MacBook-Pro.local (17378)] INFO : Application: development
+[02/07/14 14:08:01 +0000 Roys-MacBook-Pro.local (17378)] WARN : No license key found in newrelic.yml config. This often means your newrelic.yml is missing a section for the running environment 'development'
+[02/07/14 14:08:01 +0000 Roys-MacBook-Pro.local (17378)] INFO : Installing Net instrumentation
+[02/07/14 14:08:01 +0000 Roys-MacBook-Pro.local (17378)] INFO : Installing Sinatra instrumentation
+[02/07/14 14:08:01 +0000 Roys-MacBook-Pro.local (17378)] INFO : Installing deferred Rack instrumentation
+[02/07/14 14:08:01 +0000 Roys-MacBook-Pro.local (17378)] INFO : Finished instrumentation
+[02/07/14 14:08:01 +0000 Roys-MacBook-Pro.local (17378)] INFO : Starting the New Relic agent in "development" environment.
+[02/07/14 14:08:01 +0000 Roys-MacBook-Pro.local (17378)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[02/07/14 14:08:01 +0000 Roys-MacBook-Pro.local (17378)] INFO : Reading configuration from 
+[02/07/14 14:08:01 +0000 Roys-MacBook-Pro.local (17378)] ERROR : Unable to read configuration file : Is a directory - /Users/roygardiner/gitRepos/sudokuweb
+[02/07/14 14:08:01 +0000 Roys-MacBook-Pro.local (17378)] INFO : Doing deferred dependency-detection before Rack startup
+[02/07/14 14:08:42 +0000 Roys-MacBook-Pro.local (17385)] INFO : Starting the New Relic agent in "development" environment.
+[02/07/14 14:08:42 +0000 Roys-MacBook-Pro.local (17385)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[02/07/14 14:08:42 +0000 Roys-MacBook-Pro.local (17385)] INFO : Reading configuration from 
+[02/07/14 14:08:42 +0000 Roys-MacBook-Pro.local (17385)] ERROR : Unable to read configuration file : Is a directory - /Users/roygardiner/gitRepos/sudokuweb
+[02/07/14 14:08:42 +0000 Roys-MacBook-Pro.local (17385)] INFO : Enabling the Request Sampler.
+[02/07/14 14:08:42 +0000 Roys-MacBook-Pro.local (17385)] INFO : Environment: development
+[02/07/14 14:08:42 +0000 Roys-MacBook-Pro.local (17385)] INFO : Dispatcher: webrick
+[02/07/14 14:08:42 +0000 Roys-MacBook-Pro.local (17385)] INFO : Application: development
+[02/07/14 14:08:42 +0000 Roys-MacBook-Pro.local (17385)] WARN : No license key found in newrelic.yml config. This often means your newrelic.yml is missing a section for the running environment 'development'
+[02/07/14 14:08:42 +0000 Roys-MacBook-Pro.local (17385)] INFO : Installing Net instrumentation
+[02/07/14 14:08:42 +0000 Roys-MacBook-Pro.local (17385)] INFO : Installing Sinatra instrumentation
+[02/07/14 14:08:42 +0000 Roys-MacBook-Pro.local (17385)] INFO : Installing deferred Rack instrumentation
+[02/07/14 14:08:42 +0000 Roys-MacBook-Pro.local (17385)] INFO : Finished instrumentation
+[02/07/14 14:08:42 +0000 Roys-MacBook-Pro.local (17385)] INFO : Starting the New Relic agent in "development" environment.
+[02/07/14 14:08:42 +0000 Roys-MacBook-Pro.local (17385)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[02/07/14 14:08:42 +0000 Roys-MacBook-Pro.local (17385)] INFO : Reading configuration from 
+[02/07/14 14:08:42 +0000 Roys-MacBook-Pro.local (17385)] ERROR : Unable to read configuration file : Is a directory - /Users/roygardiner/gitRepos/sudokuweb
+[02/07/14 14:08:42 +0000 Roys-MacBook-Pro.local (17385)] INFO : Doing deferred dependency-detection before Rack startup
+[02/07/14 14:08:47 +0000 Roys-MacBook-Pro.local (17388)] INFO : Starting the New Relic agent in "development" environment.
+[02/07/14 14:08:47 +0000 Roys-MacBook-Pro.local (17388)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[02/07/14 14:08:47 +0000 Roys-MacBook-Pro.local (17388)] INFO : Reading configuration from 
+[02/07/14 14:08:47 +0000 Roys-MacBook-Pro.local (17388)] ERROR : Unable to read configuration file : Is a directory - /Users/roygardiner/gitRepos/sudokuweb
+[02/07/14 14:08:47 +0000 Roys-MacBook-Pro.local (17388)] INFO : Enabling the Request Sampler.
+[02/07/14 14:08:47 +0000 Roys-MacBook-Pro.local (17388)] INFO : Environment: development
+[02/07/14 14:08:47 +0000 Roys-MacBook-Pro.local (17388)] INFO : Dispatcher: webrick
+[02/07/14 14:08:47 +0000 Roys-MacBook-Pro.local (17388)] INFO : Application: development
+[02/07/14 14:08:47 +0000 Roys-MacBook-Pro.local (17388)] WARN : No license key found in newrelic.yml config. This often means your newrelic.yml is missing a section for the running environment 'development'
+[02/07/14 14:08:47 +0000 Roys-MacBook-Pro.local (17388)] INFO : Installing Net instrumentation
+[02/07/14 14:08:47 +0000 Roys-MacBook-Pro.local (17388)] INFO : Installing Sinatra instrumentation
+[02/07/14 14:08:47 +0000 Roys-MacBook-Pro.local (17388)] INFO : Installing deferred Rack instrumentation
+[02/07/14 14:08:47 +0000 Roys-MacBook-Pro.local (17388)] INFO : Finished instrumentation
+[02/07/14 14:08:47 +0000 Roys-MacBook-Pro.local (17388)] INFO : Starting the New Relic agent in "development" environment.
+[02/07/14 14:08:47 +0000 Roys-MacBook-Pro.local (17388)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[02/07/14 14:08:47 +0000 Roys-MacBook-Pro.local (17388)] INFO : Reading configuration from 
+[02/07/14 14:08:47 +0000 Roys-MacBook-Pro.local (17388)] ERROR : Unable to read configuration file : Is a directory - /Users/roygardiner/gitRepos/sudokuweb
+[02/07/14 14:08:47 +0000 Roys-MacBook-Pro.local (17388)] INFO : Doing deferred dependency-detection before Rack startup
+[02/07/14 14:08:47 +0000 Roys-MacBook-Pro.local (17391)] INFO : Starting the New Relic agent in "development" environment.
+[02/07/14 14:08:47 +0000 Roys-MacBook-Pro.local (17391)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[02/07/14 14:08:47 +0000 Roys-MacBook-Pro.local (17391)] INFO : Reading configuration from 
+[02/07/14 14:08:47 +0000 Roys-MacBook-Pro.local (17391)] ERROR : Unable to read configuration file : Is a directory - /Users/roygardiner/gitRepos/sudokuweb
+[02/07/14 14:08:47 +0000 Roys-MacBook-Pro.local (17391)] INFO : Enabling the Request Sampler.
+[02/07/14 14:08:47 +0000 Roys-MacBook-Pro.local (17391)] INFO : Environment: development
+[02/07/14 14:08:47 +0000 Roys-MacBook-Pro.local (17391)] INFO : Dispatcher: webrick
+[02/07/14 14:08:47 +0000 Roys-MacBook-Pro.local (17391)] INFO : Application: development
+[02/07/14 14:08:47 +0000 Roys-MacBook-Pro.local (17391)] WARN : No license key found in newrelic.yml config. This often means your newrelic.yml is missing a section for the running environment 'development'
+[02/07/14 14:08:47 +0000 Roys-MacBook-Pro.local (17391)] INFO : Installing Net instrumentation
+[02/07/14 14:08:47 +0000 Roys-MacBook-Pro.local (17391)] INFO : Installing Sinatra instrumentation
+[02/07/14 14:08:47 +0000 Roys-MacBook-Pro.local (17391)] INFO : Installing deferred Rack instrumentation
+[02/07/14 14:08:47 +0000 Roys-MacBook-Pro.local (17391)] INFO : Finished instrumentation
+[02/07/14 14:08:47 +0000 Roys-MacBook-Pro.local (17391)] INFO : Starting the New Relic agent in "development" environment.
+[02/07/14 14:08:47 +0000 Roys-MacBook-Pro.local (17391)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[02/07/14 14:08:47 +0000 Roys-MacBook-Pro.local (17391)] INFO : Reading configuration from 
+[02/07/14 14:08:47 +0000 Roys-MacBook-Pro.local (17391)] ERROR : Unable to read configuration file : Is a directory - /Users/roygardiner/gitRepos/sudokuweb
+[02/07/14 14:08:47 +0000 Roys-MacBook-Pro.local (17391)] INFO : Doing deferred dependency-detection before Rack startup

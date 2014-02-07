@@ -1,5 +1,6 @@
 require 'sinatra'
 require 'rack-flash'
+require 'newrelic_rpm'
 
 require_relative './lib/sudoku'
 require_relative './lib/cell'
@@ -7,6 +8,8 @@ require_relative './lib/cell'
 enable :sessions
 use Rack::Flash
 set :session_secret, "some other value"
+
+NewRelic::Agent.manual_start
 
 def random_sudoku
     # we're using 9 numbers, 1 to 9, and 72 zeros as an input
@@ -83,6 +86,10 @@ end
 
 get '/solution' do
   @current_solution = session[:solution]
+
+  @solution = session[:solution]
+  @puzzle = session[:puzzle]
+
   erb :index
 end
 
